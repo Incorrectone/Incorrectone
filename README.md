@@ -2,7 +2,7 @@
 
 
 
-I am a second-year Maths student. Like to do coding as a hobby. Currently trying to learn Machine Learning and Data analysis, because I think it will have big implications in the future. Would like to learn enough to create my own personal assistant like JARVIS form the movies. My Projects are a cumilation of random things that I like to do.
+I am a second-year Maths student. Like to do coding as a hobby. Currently trying to learn Machine Learning and Data analysis, because I think it will have big implications in the future. Would like to learn enough to create my own personal assistant like JARVIS from the movies. My Projects are a cumilation of random things that I like to do.
 
 Most things I do are in Python because it is the easiest of them all. Not really worrying about the execution time of them too much. Plus Python has a pretty good standard library and documentations for a person like me. Currently I do not have any professional expierence in anything related to CS. But I plan to do an internship in my Third year.
 
