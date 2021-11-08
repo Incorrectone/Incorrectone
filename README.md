@@ -15,17 +15,18 @@ I do know some other languages, some of which I do use often but python can cove
 ![image](https://user-images.githubusercontent.com/71703481/140781937-4d0f24bb-701d-459f-9cdd-f9b84c721b13.png)
   
 ###### Would love to contribute to open source as much as I can.
-
-</div>
-
-**Pronouns**: he/him
-**Expierience**: Not anything Professional
-
-**Languages**: C/C#, C++, Python, JavaScript, Java(kinda), PHP
-**Technologies**: Arduino(learned it as a child), Git(kinda), SQL, MySQL, Node.js(kinda), Flask and Django Framework, Travis CI, Unix command line(Little to None)
-**Python Libraries that I specialize in**: Pillow, Praw(and aPraw), Discord.py(Discontinued), asyncio, Django, Flask, Matplotlib,NumPy,SciPy,Panda,TensorFlow(Learning, Basically al Data Science ones) 
-**Applications**: AWS, LaTeX, Figma, Draw.io, Unity, Unreal Engine, Inkscape
-**Operating Systems**: Linux, Windows
+      
+</div>            
+                  
+**Pronouns**: he/him                              
+**Expierience**: Not anything Professional                                    
+                        
+**Languages**: C/C#, C++, Python, JavaScript, Java(kinda), PHP                                                      
+**Technologies**: Arduino(learned it as a child), Git(kinda), SQL, MySQL, Node.js(kinda), Flask and Django Framework, Travis CI, Unix command line(Little to None)                                                
+**Python Libraries that I specialize in**: Pillow, Praw(and aPraw), Discord.py(Discontinued), asyncio, Django, Flask, Matplotlib,NumPy,SciPy,Panda,TensorFlow(Learning, Basically al Data Science ones)                                                
+                                                                        
+**Applications**: AWS, LaTeX, Figma, Draw.io, Unity, Unreal Engine, Inkscape                                                                  
+**Operating Systems**: Linux, Windows                                                            
 
  
  
