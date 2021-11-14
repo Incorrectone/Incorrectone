@@ -25,7 +25,7 @@ I do know some other languages, some of which I do use often but python can cove
 **Technologies**: Arduino(learned it as a child), Git(kinda), SQL, MySQL, Node.js(kinda), Flask and Django Framework, Travis CI, Unix command line(Little to None)                                                
 **Python Libraries that I specialize in**: Pillow, Praw(and aPraw), Discord.py(Discontinued), asyncio, Django, Flask, tkinter      
       
-**Data Science Python lib**:Matplotlib,NumPy,SciPy,Panda,TensorFlow(Learning, Basically all the Data Science ones)                                                
+**Data Science Python lib**:  Matplotlib,NumPy,SciPy,Panda,TensorFlow(Learning, Basically all the Data Science ones)                                                
                                                                         
 **Applications**: AWS, LaTeX, Figma, Draw.io, Unity, Unreal Engine(learning), Inkscape                                                                  
 **Operating Systems**: Linux, Windows                                                            
