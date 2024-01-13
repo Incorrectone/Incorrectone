@@ -2,9 +2,9 @@
 
 
 
-I am a second-year Maths student. Like to do coding as a hobby. Currently trying to learn Machine Learning and Data analysis, because I think it will have big implications in the future. Would like to learn enough to create my own personal assistant like JARVIS from the movies. My Projects are a cumilation of random things that I like to do.
+I am a first-year CS student. Liked to do coding as a hobby. Currently trying to learn Machine Learning and Data analysis. 
 
-Most things I do are in Python because it is the easiest of them all. Not really worrying about the execution time of them too much. Plus Python has a pretty good standard library and documentations for a person like me. Currently I do not have any professional expierence in anything related to CS. But I plan to do an internship in my Third year.
+Most things I do are in Python because it is the easiest of them all. Not really worrying about the execution time of them too much. Plus Python has a pretty good standard library and documentations for a person like me. Currently I do not have any professional expierence in anything related to CS. But I plan to do an internship in my Second year.
 
 I do know some other languages, some of which I do use often but python can cover for them.
 
@@ -21,13 +21,11 @@ I do know some other languages, some of which I do use often but python can cove
 **Pronouns**: he/him                              
 **Expierience**: Not anything Professional                                    
                         
-**Languages**: C/C#, C++, Python, JavaScript, Java(kinda), PHP                                                      
-**Technologies**: Arduino(learned it as a child), Git(kinda), SQL, MySQL, Node.js(kinda), Flask and Django Framework, Travis CI, Unix command line(Little to None)                                                
-**Python Libraries that I specialize in**: Pillow, Praw(and aPraw), Discord.py(Discontinued), asyncio, Django, Flask, tkinter      
-      
-**Data Science Python lib**:  Matplotlib,NumPy,SciPy,Panda,TensorFlow(Learning, Basically all the Data Science ones)                                                
-                                                                        
-**Applications**: AWS, LaTeX, Figma, Draw.io, Unity, Unreal Engine(learning), Inkscape                                                                  
+**Languages**: C/C++, C#, Python, and Assembly                                                     
+**Technologies**: Arduino(learned it as a child), SimpleSQL, Flask, Unix command line(Little to None)                                                
+**Python Libraries that I specialize in**: Pillow, Numpy, asyncio, Flask, tkinter      
+
+**Applications**: LaTeX, Figma Unity, Unreal Engine(learning), Inkscape                                                                  
 **Operating Systems**: Linux, Windows                                                            
 
  
