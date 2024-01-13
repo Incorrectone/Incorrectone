@@ -25,7 +25,7 @@ I do know some other languages, some of which I do use often but python can cove
 **Technologies**: Arduino(learned it as a child), SimpleSQL, Flask, Unix command line(Little to None)                                                
 **Python Libraries that I specialize in**: Pillow, Numpy, asyncio, Flask, tkinter      
 
-**Applications**: LaTeX, Figma Unity, Unreal Engine(learning), Inkscape                                                                  
+**Applications**: LaTeX, Figma, Unity, Unreal Engine(learning), Inkscape                                                                  
 **Operating Systems**: Linux, Windows                                                            
 
  
