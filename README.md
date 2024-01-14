@@ -19,9 +19,9 @@ I do know some other languages, some of which I do use often but python can cove
 </div>            
                   
 **Pronouns**: he/him                              
-**Expierience**: Not anything Professional                                    
+**Experience**: Not anything Professional                                    
                         
-**Languages**: C/C++, C#, Python, and Assembly                                                     
+**Languages**: C/C++, C#, Python.                                                     
 **Technologies**: Arduino(learned it as a child), SimpleSQL, Flask, Unix command line(Little to None)                                                
 **Python Libraries that I specialize in**: Pillow, Numpy, asyncio, Flask, tkinter      
 
