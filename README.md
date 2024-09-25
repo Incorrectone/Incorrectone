@@ -2,9 +2,9 @@
 
 
 
-I am a first-year CS student. Liked to do coding as a hobby. Currently trying to learn Machine Learning and Data analysis. 
+I am a second-year CS student. Liked to do coding as a hobby. Currently trying to learn Machine Learning and Data analysis. 
 
-Most things I do are in Python because it is the easiest of them all. Not really worrying about the execution time of them too much. Plus Python has a pretty good standard library and documentations for a person like me. Currently I do not have any professional expierence in anything related to CS. But I plan to do an internship in my Second year.
+Most things I do are in Python/C. Currently I do not have any professional expierence in anything related to CS. But I plan to do an internship this college year.
 
 I do know some other languages, some of which I do use often but python can cover for them. I hate Front-End cause I am not good at it lol, I suck at HTML/CSS/JavaScript.
 
