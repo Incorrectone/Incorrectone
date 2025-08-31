@@ -18,15 +18,14 @@ I do know some other languages, some of which I do use often but python can cove
       
 </div>            
                   
-**Pronouns**: he/him                              
-**Experience**: Not anything Professional                                    
+**Pronouns**: he/him                                                       
                         
-**Languages**: C/C++, C#, Python.                                                     
-**Technologies**: Arduino(learned it as a child), SimpleSQL, Flask, Unix command line(Little to None)                                                
+**Languages**: C/C++, C#, Python, Java                                                   
+**Technologies**: Arduino, SimpleSQL, Flask, Unix command line(Little), Networking(Learning), ARM Based Boards                                               
 **Python Libraries that I know**: Pillow, Numpy, asyncio, Flask, tkinter      
 
-**Applications**: LaTeX, Figma, Unity, Unreal Engine(learning), Inkscape                                                                  
-**Operating Systems**: Linux, Windows                                                            
+**Applications**: LaTeX, Figma, Unity, Inkscape                                                                  
+**Operating Systems**: Linux (Debian), Windows                                                            
 
  
  
