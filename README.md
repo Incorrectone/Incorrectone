@@ -27,5 +27,7 @@ I do know some other languages, some of which I do use often but python can cove
 **Applications**: LaTeX, Figma, Unity, Inkscape                                                                  
 **Operating Systems**: Linux (Debian), Windows                                                            
 
- 
- 
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=incorrectone&show_icons=true">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incorrectone&layout=pie">
+</p>
